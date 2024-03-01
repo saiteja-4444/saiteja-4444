@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Teja</h1>
-<h3 align="center">A passionate web developer and Ethical Hacker from India</h3>
+<h3 align="center">A passionate web developer and an aspiring Ethical Hacker from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiteja-4444&label=Profile%20views&color=0e75b6&style=flat" alt="saiteja-4444" /> </p>
 
