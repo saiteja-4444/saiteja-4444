@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sai Teja</h1>
 <h3 align="center">A passionate web developer and an aspiring Ethical Hacker from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiteja-4444&label=Profile%20views&color=0e75b6&style=flat" alt="saiteja-4444" /> </p>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiteja-4444" alt="saiteja-4444" /></a> </p>
+
 
 - 🌱 I’m currently learning **Backend Devlopment**
 
