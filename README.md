@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **cyber security**
 
-- 💬 Ask me about **Ethical Hacking**
+- 💬 Ask me about 
 
 <h3 align="left"></h3>
 <p align="left">
