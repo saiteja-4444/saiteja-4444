@@ -5,11 +5,13 @@
 
 
 
-- 🌱 I’m currently learning **Backend Devlopment**
+- I'm trying to learn HTML, CSS, JavaScript, PHP, C, Python, Shell, Ruby and Java.
 
-- 👯 I’m looking to collaborate on **web devlopment project**
+- I’m looking to collaborate on **web devlopment project**
 
-- 🤝 I’m looking for help with **cyber security**
+- I've some experience in rooting, installing custom rom/OS in android and installing OS in PC.
+
+- My hobby is reading books, listening music, playing games.
 
 - 💬 Ask me about 
 
