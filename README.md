@@ -5,7 +5,7 @@
 
 
 
-- I'm trying to learn HTML, CSS, JavaScript, PHP, C, Python, SQL and Java.
+- I'm trying to learn HTML, CSS, JavaScript, PHP, C, SQL, Python and Java.
 
 - I’m looking to collaborate on **Cyber Security project**
 
