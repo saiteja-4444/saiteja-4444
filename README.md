@@ -5,7 +5,6 @@
 
 
 - I'm trying to learn JavaScript, PHP, SQL, Python and Java.
-
 - I’m looking to collaborate on **Computer Vision project**.
 
 - I've some experience in rooting, installing custom rom/OS in android and installing OS in PC.
