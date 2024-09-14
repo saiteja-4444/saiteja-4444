@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Teja</h1>
+<h1 align="center">Hlo 👋, I'm Sai Teja</h1>
 <h3 align="center"> Formerly a student but passionate in programming! </h3>
 
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
