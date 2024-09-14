@@ -12,7 +12,7 @@
 
 - My hobby is reading books, listening music, playing games.
 
-- 💬 Ask me about 
+- 💬 Ask me about.
 
 <h3 align="left"></h3>
 <p align="left"> </p>
