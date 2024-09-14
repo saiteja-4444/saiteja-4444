@@ -8,7 +8,6 @@
 - I’m looking to collaborate on **Computer Vision project**.
 - I've some experience in rooting, installing custom rom/OS in android and installing OS in PC.
 - My hobby is reading books, listening music, playing games.
-
 - 💬 Ask me about.
 
 <h3 align="left"></h3>
