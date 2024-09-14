@@ -15,8 +15,7 @@
 - 💬 Ask me about 
 
 <h3 align="left"></h3>
-<p align="left">
-</p>
+<p align="left"> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><div align="left">
@@ -53,7 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
 </div>
 
- </a> </p>
+ </a> 
+ </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiteja-4444&show_icons=true&locale=en&layout=compact" alt="saiteja-4444" /></p>
 
