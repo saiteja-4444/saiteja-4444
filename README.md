@@ -4,10 +4,9 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 
+- I'm trying to learn JavaScript, PHP, SQL, Python and Java.
 
-- I'm trying to learn HTML, CSS, JavaScript, PHP, SQL, Python and Java.
-
-- I’m looking to collaborate on **Cyber Security project**
+- I’m looking to collaborate on **Computer Vision project**
 
 - I've some experience in rooting, installing custom rom/OS in android and installing OS in PC.
 
