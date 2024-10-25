@@ -54,15 +54,3 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-4444&layout=compact&theme=tokyonight" alt=Mayuresh-22 />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=saiteja-4444&show_icons=true&locale=en&theme=tokyonight" alt="Mayuresh-22" /></p>
 
-
-
-<h1>
- 
-</h1>
-<div align="">
-<a href="https://github.com/saiteja-4444">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saiteja-4444&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiteja-4444&theme=tokyonight" height="180em" />
-</br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiteja-4444&theme=tokyonight" height="175em" />
-</div>
