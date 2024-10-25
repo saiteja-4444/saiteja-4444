@@ -60,6 +60,6 @@
 <a href="https://github.com/saiteja-4444">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saiteja-4444&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiteja-4444&theme=tokyonight" height="180em" />
-<br>
+</br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiteja-4444&theme=tokyonight" height="175em" />
 </div>
