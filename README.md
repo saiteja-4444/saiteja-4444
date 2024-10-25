@@ -47,13 +47,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
 </div>
-
  </a> 
  </p>
-
-
-
-
 
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-4444&layout=compact&theme=tokyonight" alt=Mayuresh-22 />
@@ -66,7 +61,6 @@
 <div align="center">
 <a href="https://github.com/saiteja-4444">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saiteja-4444&theme=tokyonight" height="180em" />
-
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiteja-4444&theme=tokyonight" height="180em" />
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiteja-4444&theme=tokyonight" height="180em" />
